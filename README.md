@@ -1,6 +1,6 @@
 
 
-# <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2ZjZm1qYWJ3ZHZiNG42dDcxNDh0ZTIyN21oYWxtNHU0eXp5a3hkMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp" alt="" width="50" height="50" />  # 👋👋 Holaaaaa Mundo !!! 👋👋
+# <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2ZjZm1qYWJ3ZHZiNG42dDcxNDh0ZTIyN21oYWxtNHU0eXp5a3hkMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp" alt="" width="60" height="60" />  # 👋👋 Holaaaaa Mundo !!! 👋👋# <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2ZjZm1qYWJ3ZHZiNG42dDcxNDh0ZTIyN21oYWxtNHU0eXp5a3hkMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp" alt="" width="60" height="60" /> 
 
 **Yo soy Diego Huete** - _Soy un ingeniero en sistemas informaticos de origen salvadoreño que tiene ganas de ir creando una variedad de sistemas de escritorio como web con la finalidad de facilitar las tareas diarias como a su vez el manejo de información_.
 
