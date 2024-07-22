@@ -4,7 +4,7 @@
 
 😎🤓😎🤓😎🤓😎🤓😎🤓😎🤓 😎🤓😎🤓😎🤓😎🤓😎🤓😎🤓😎🤓😎
 
-[![SkillIcons](https://skillicons.dev/icons?i=linkedin,mysql,html,css,windows,pywordpress,vscode,visualstudio,ubuntu,sublime,postgres,github,git,cs,bitbucket,sqlserver)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=linkedin,mysql,html,css,windows,wordpress,vscode,visualstudio,ubuntu,sublime,postgres,github,git,cs,bitbucket,sqlserver)](https://skillicons.dev)<br/>
 [^ These icons are one of my projects!](https://github.com/tandpfun/skill-icons)
 
 ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
