@@ -5,7 +5,7 @@
 **Yo soy Diego Huete** - _Soy un ingeniero en sistemas informaticos de origen salvadoreño que tiene ganas de ir creando una variedad de sistemas de escritorio como web con la finalidad de facilitar las tareas diarias como a su vez el manejo de información_.
 
 # Conocimiento en: 
-[![My Skills](https://skillicons.dev/icons?i=windows,wordpress,vscode,visualstudio,ubuntu,sublime,postgres,mysql,html,github,git,css,cs,bootstrap,bitbucket,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows,wordpress,vscode,visualstudio,ubuntu,sublime,postgres,mysql,html,github,git,css,cs,bootstrap,bitbucket&theme=light)](https://skillicons.dev)
 
 
 
