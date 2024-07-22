@@ -4,7 +4,7 @@
 **Yo soy Diego Huete** - Soy un ingeniero en sistemas informaticos de origen salvadoreño que tiene ganas de ir creando una variedad de sistemas de escritorio como web con la finalidad de facilitar las tareas del dia a dia como el manejo de información.
 
 
-# <img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" alt="" width="”100”" height="”100”" /> 
+# <img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" alt="" width="100" height="100" /> 
 
 
 
